@@ -1,5 +1,5 @@
-# Divya Sri Valleti
-# Sai Praneeth Reddy Tathireddy
+### Divya Sri Valleti
+### Sai Praneeth Reddy Tathireddy
 
 # Hungry Hub
 
